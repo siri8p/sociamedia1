@@ -1,0 +1,1 @@
+Appplication uses Spring Boot, Sping data JPA
